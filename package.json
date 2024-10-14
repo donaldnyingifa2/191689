@@ -1,0 +1,20 @@
+{
+  "name": "191689",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modelA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "rimraf": "^6.0.1",
+    "zlib": "^1.0.5"
+  }
+}
